@@ -1,4 +1,0 @@
-People staying in city:
-Doctors,Engineers,Architects,Business man.
-
-Problems faced by people:
